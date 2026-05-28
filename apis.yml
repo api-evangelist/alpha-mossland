@@ -1,0 +1,32 @@
+aid: alpha-mossland
+name: Alpha (Mossland)
+description: "Korean crypto channel stance + RAG Q&A + canonical entity/topic/event store"
+url: https://alpha.moss.land/developers
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cryptocurrency"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cryptocurrency
+  - Public APIs
+apis:
+  - name: Alpha (Mossland)
+    description: "Korean crypto channel stance + RAG Q&A + canonical entity/topic/event store"
+    humanURL: https://alpha.moss.land/developers
+    baseURL: https://alpha.moss.land/developers
+    tags:
+      - Cryptocurrency
+    properties:
+      - type: Documentation
+        url: https://alpha.moss.land/developers
+common:
+  - type: Website
+    url: https://alpha.moss.land/developers
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
