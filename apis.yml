@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://alpha.moss.land/developers
 common:
+  - type: DomainSecurity
+    url: security/alpha-mossland-domain-security.yml
   - type: Website
     url: https://alpha.moss.land/developers
   - type: PublicAPIsListing
