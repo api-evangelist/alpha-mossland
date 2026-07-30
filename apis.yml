@@ -1,4 +1,16 @@
 aid: alpha-mossland
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/alpha-mossland.png
 name: Alpha (Mossland)
 description: "Korean crypto channel stance + RAG Q&A + canonical entity/topic/event store"
 url: https://alpha.moss.land/developers
