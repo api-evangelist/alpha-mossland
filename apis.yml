@@ -39,7 +39,6 @@ apis:
   - name: Alpha (Mossland)
     description: "Korean crypto channel stance + RAG Q&A + canonical entity/topic/event store"
     humanURL: https://alpha.moss.land/developers
-    baseURL: https://alpha.moss.land/developers
     tags:
       - Cryptocurrency
     properties:
