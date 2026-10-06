@@ -27,7 +27,7 @@ description: "Korean crypto channel stance + RAG Q&A + canonical entity/topic/ev
 url: https://alpha.moss.land/developers
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Cryptocurrency"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://alpha.moss.land/developers
 common:
+  - url: https://alpha.moss.land/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/alpha-mossland-domain-security.yml
   - type: Website
