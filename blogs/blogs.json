@@ -1,0 +1,14 @@
+{
+  "repo": "alpha-mossland",
+  "feeds": [
+    {
+      "source": "https://alpha.moss.land/rss.xml",
+      "feed_url": "https://alpha.moss.land/rss.xml",
+      "title": "",
+      "saved": 27,
+      "method": "feed"
+    }
+  ],
+  "post_count": 27,
+  "fetched": "2026-10-10T13:15:00Z"
+}
